@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\LibraryConsole03.06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83986316-4766-42FF-BA31-BF51798FD7FC}|LibraryConsole03.06\\LibraryConsole03.06.csproj|c:\\users\\user\\source\\repos\\libraryconsole03.06\\libraryconsole03.06\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83986316-4766-42FF-BA31-BF51798FD7FC}|LibraryConsole03.06\\LibraryConsole03.06.csproj|solutionrelative:libraryconsole03.06\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83986316-4766-42FF-BA31-BF51798FD7FC}|LibraryConsole03.06\\LibraryConsole03.06.csproj|c:\\users\\user\\source\\repos\\libraryconsole03.06\\libraryconsole03.06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83986316-4766-42FF-BA31-BF51798FD7FC}|LibraryConsole03.06\\LibraryConsole03.06.csproj|solutionrelative:libraryconsole03.06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83986316-4766-42FF-BA31-BF51798FD7FC}|LibraryConsole03.06\\LibraryConsole03.06.csproj|c:\\users\\user\\source\\repos\\libraryconsole03.06\\libraryconsole03.06\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83986316-4766-42FF-BA31-BF51798FD7FC}|LibraryConsole03.06\\LibraryConsole03.06.csproj|solutionrelative:libraryconsole03.06\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryConsole03.06\\LibraryConsole03.06\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryConsole03.06\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryConsole03.06\\LibraryConsole03.06\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryConsole03.06\\Models\\Book.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:49:36.941Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryConsole03.06\\LibraryConsole03.06\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryConsole03.06\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryConsole03.06\\LibraryConsole03.06\\Models\\Library.cs",
+              "RelativeToolTip": "LibraryConsole03.06\\Models\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:50:07.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryConsole03.06\\LibraryConsole03.06\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryConsole03.06\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryConsole03.06\\LibraryConsole03.06\\Program.cs",
+              "RelativeToolTip": "LibraryConsole03.06\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:49:02.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
